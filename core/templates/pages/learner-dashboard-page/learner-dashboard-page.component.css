@@ -426,7 +426,8 @@ oppia-learner-dashboard-page .oppia-pagination-button {
   border-radius: 5px;
 }
 .oppia-pagination-button[disabled] {
-  color: #a9e5df;
+  color: #21bbac;
+  visibility: visible;
 }
 .oppia-pagination-button[disabled]:hover {
   border: none;
